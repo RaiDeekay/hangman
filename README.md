@@ -1,2 +1,2 @@
-# hangman
+# Hangman with Python
 Computer Project Club
